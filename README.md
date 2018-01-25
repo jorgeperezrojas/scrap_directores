@@ -11,3 +11,5 @@ Para descragar los datos simplemente hacer
 ```
 python scrap_directores.py -v
 ```
+
+Esto descarga dos archivos .csv con datos de empresa y directores, y un detalle con una persona por fila seguida de su lista de directorios. El archivo `scrap_directores.py` tiene varias funciones que se pueden utilizar de manera más fina para manejar la descarga.
